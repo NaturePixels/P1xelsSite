@@ -1,0 +1,68 @@
+#Title {
+    padding-bottom:10px;
+    text-align:center;
+    border-radius:25px;
+    background-color: RGB(10,25,40);
+    font-family: monospace;
+}
+
+#navbar {
+    
+    color:white;
+    font-size:x-large;
+    background-color:RGB(40,50,80);
+    font-family: monospace;
+    text-decoration:none;
+    padding-bottom:10px;
+    border-radius:5px;
+    padding:10px; 
+}
+#navspan {
+    
+    color:white;
+    font-size:x-large;
+    background-color:RGB(40,50,80);
+    font-family: monospace;
+    text-decoration:none;
+    padding-bottom:10px;
+    border-radius:5px;
+    padding:10px; 
+}
+#navbar:hover {
+    color:aqua;
+    font-size:x-large;
+    background-color:RGB(60,70,100);
+    font-family: monospace;
+    text-decoration:none;
+    padding-bottom:10px;
+    border-radius:5px;
+}
+#about-me {
+    
+   
+    padding-left:10px;
+    padding-top:10px;
+    padding-right:10px;
+    font-size: x-large;
+    background-color:RGB(30,35,50);
+    border-radius: 25px;
+    position:relative;
+    width:300px;
+    height:240px;
+    font-family:monospace;
+    text-align: center;
+    
+}
+body {
+    color:white;
+    background-image:url(image.png);
+    background-size:100%;
+}
+iframe {
+    position:relative;
+    padding-top:6px;
+    padding-left:6px;
+    
+    
+
+}
